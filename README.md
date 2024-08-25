@@ -1,3 +1,2 @@
 # nlp-project
-natural language project
-The project is basically a categorizer that sort different documents and articles and group them with their relative genre such as sport, politics, daily news, etc.
+natural language project that categorize different documents and articles and group them with their relative genre such as sport, politics, daily news, etc. The technology I use are chatgpt API, a template I got online, and vision studio code.
