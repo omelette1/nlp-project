@@ -1,2 +1,1 @@
-# nlp-project
-natural language project that categorize different documents and articles and group them with their relative genre such as sport, politics, daily news, etc. The technology I use are chatgpt API, a template I got online, and vision studio code.
+A natural language project that sorts different documents are categorize it with its relative genre. The project is integrated with Open CHATGPT AI and runned with dockers. I use a template called boiler-plates for the base structure of the website.
